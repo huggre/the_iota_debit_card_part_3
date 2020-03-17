@@ -398,6 +398,7 @@ I was thinking it would be fun to build a Visa style IOTA based payment terminal
 
 If you like this tutorial and want me to continue making others, feel free to make a small donation to the IOTA address shown below.
 
-![img](https://miro.medium.com/max/400/1*kV_WUaltF4tbRRyqcz0DaA.png)
+![img](https://miro.medium.com/max/382/1*j2ENIzmDzXcGSgAdY4w-Jw.png)
 
-> GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ
+NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ
+
