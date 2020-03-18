@@ -19,7 +19,7 @@ iotaNode = "https://nodes.thetangle.org:443"
 api = iota.Iota(iotaNode, "")
 
 # Hotel owner recieving address, replace with your own recieving address
-hotel_address = b'GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ'
+hotel_address = b'NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ'
 
 # Some variables to control program flow 
 continue_reading = True
